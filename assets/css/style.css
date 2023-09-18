@@ -286,6 +286,11 @@ body {
   width: 282px;
 }
 
+.sms-wrapper {
+  background-color: #f5f5fa;
+  border-radius: 2em;;
+}
+
 .input-code {
   font-family: "peyda" !important;
   font-weight: 600;
@@ -341,6 +346,10 @@ body {
   .splide__arrows--rtl .splide__arrow--next {
     left: -2em !important;
   }
+  .red-circle-login {
+    width: 100% !important;
+    height: 200px !important;
+  }
   .desktop-view {
     display: none !important;
   }
@@ -378,11 +387,7 @@ body {
   }
   .second-section {
     margin-top: 12em;
-  }
-  .red-circle-login {
-    width: 100% !important;
-    height: 200px !important;
-  }
+  }  
   .mobile-view {
     display: none !important;
   }
