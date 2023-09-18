@@ -55,7 +55,7 @@
           <button class="btn">
             <img src="../../../panahi/assets/img/bag-2.svg" alt="" />
           </button>
-          <a href="./view/public/login.php" class="btn btn-red">ورود / ثبت نام</a>          
+          <a href="http://localhost/panahi/view/public/login.php" class="btn btn-red">ورود / ثبت نام</a>          
         </div>
       </div>
     </nav>
